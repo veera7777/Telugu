@@ -1,0 +1,64 @@
+#EXTINF:0,  Cartoon Network (Telugu)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Cartoon_Network_Telugu/Cartoon_Network_Telugu_800.m3u8
+#EXTINF:0,  Discovery Channel (Telugu)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Discovery_Channel_Telugu/Discovery_Channel_Telugu_800.m3u8
+#EXTINF:0,  Etv Abhiruchi
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Abhiruchi/ETV_Abhiruchi_800.m3u8
+#EXTINF:0,  Etv AP
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Andhra_pradesh/ETV_Andhra_pradesh_800.m3u8
+#EXTINF:0,  Etv Cinema
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Cinema/ETV_Cinema_800.m3u8
+#EXTINF:0,  Etv Life
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Life/ETV_Life_800.m3u8
+#EXTINF:0,  Etv Plus
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/ETV_Plus/ETV_Plus_800.m3u8
+#EXTINF:0,  Gemini Comedy
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Comedy/Gemini_Comedy_800.m3u8
+#EXTINF:0,  Gemini Life
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Life/Gemini_Life_800.m3u8
+#EXTINF:0,  Gemini Movies
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Movies/Gemini_Movies_800.m3u8
+#EXTINF:0,  Gemini Movies HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Movies_HD/Gemini_Movies_HD_800.m3u8
+#EXTINF:0,  Gemini Music
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Music/Gemini_Music_800.m3u8
+#EXTINF:0,  Gemini Music HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_Music_HD/Gemini_Music_HD_800.m3u8
+#EXTINF:0,  Gemini News
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_News/Gemini_News_800.m3u8
+#EXTINF:0,  Gemini
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_TV/Gemini_TV_800.m3u8
+#EXTINF:0,  Gemini HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gemini_TV_HD/Gemini_TV_HD_800.m3u8
+#EXTINF:0,  Gyana Yogi
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Gyana_Yogi/Gyana_Yogi_800.m3u8
+#EXTINF:0,  Hindu Dharmam
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Hindu_Dharmam/Hindu_Dharmam_800.m3u8
+#EXTINF:0,  History HD (Telugu)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/History_18_Telugu/History_18_Telugu_800.m3u8
+#EXTINF:0,  Kushi TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Kushi_TV/Kushi_TV_800.m3u8
+#EXTINF:0,  Maa Gold HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maa_Gold/Maa_Gold_800.m3u8
+#EXTINF:0,  Maa Movies HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maa_Movies/Maa_Movies_800.m3u8
+#EXTINF:0,  Maa TV HD
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maa_TV/Maa_TV_800.m3u8
+#EXTINF:0,  Maha News
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Maha_News/Maha_News_800.m3u8
+#EXTINF:0,  Nick (Telugu)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Nick_Telugu/Nick_Telugu_800.m3u8
+#EXTINF:0,  NTV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/NTV/NTV_800.m3u8
+#EXTINF:0,  Shiva Shakti Sai TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Shiva_Shakti_Sai_TV/Shiva_Shakti_Sai_TV_800.m3u8
+#EXTINF:0,  Sony BBC Earth HD (Telugu)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_BBC_Earth_HD_Telugu/Sony_BBC_Earth_HD_Telugu_800.m3u8
+#EXTINF:0,  Sony Yay (Telugu)
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Sony_Yay_Telugu/Sony_Yay_Telugu_800.m3u8
+#EXTINF:0,  Vissa TV
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Vissa_TV/Vissa_TV_800.m3u8
+#EXTINF:0,  Zee Cinemalu
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Cinemalu/Zee_Cinemalu_800.m3u8
+#EXTINF:0,  Zee Telugu
+https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Zee_Telugu/Zee_Telugu_800.m3u8
